@@ -1,2 +1,3 @@
 i'm learning git.
 i have got some basic idea of Git, intersting!
+hi
