@@ -1,4 +1,7 @@
 i'm learning git.
+
+this is master part.
+
 i have got some basic idea of Git, intersting!
 hi
 i'm going to test index
